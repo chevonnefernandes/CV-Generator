@@ -1,4 +1,5 @@
 # CV Generator
+![Example CV](https://github.com/chevonnefernandes/CV-Generator/assets/161243278/af2b5855-f890-45bf-9535-d53539c88487)
 
 ## Overview
 CV Generator generates a CV document based on user input. The CV includes sections for a profile picture, contact details, professional profile, technical skills, work experience, and a footer.
