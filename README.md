@@ -15,7 +15,7 @@ CV Generator generates a CV document based on user input. The CV includes sectio
 ## Usage
 1. Ensure your CV headshot is saved as headshot.png in the project directory.
 2. Launch the CV Generator application:
-```python
+```
 python main.py
 ```
 3. Follow the on-screen prompts to input your details and customise your CV.
