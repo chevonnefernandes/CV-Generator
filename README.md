@@ -19,7 +19,7 @@ CV Generator generates a CV document based on user input. The CV includes sectio
 ```
 python main.py
 ```
-3. Follow the on-screen prompts to input your details and customise your CV.
+3. Follow the on-screen prompts and text-to-speech guidance to input your details and customise your CV.
 4. Once finished, your CV will be saved as cv.docx in the project directory.
 
 ## Installation
